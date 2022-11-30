@@ -5,7 +5,7 @@
   I am a Frontend Developer currently in my Junior year at Addis Ababa Science and Technology University
 </p>
 
-- 🔭 I’m currently working on [Win 11 in Vue](https://github.com/yohannesakd/win11-vue) and [Aimlab Stats Tracker](https://github.com/yohannesakd/aimlab-tracker)
+- 🔭 I’m currently working on [Win 11 in Vue](https://github.com/yohannesakd/win11-vue) and [Aimlab Stats Tracker](https://github.com/yohannesakd/aimlab-benchmarks-viewer)
 
 - 👨‍💻 All of my projects are available at [https://github.com/yohannesakd](https://github.com/yohannesakd)
 
