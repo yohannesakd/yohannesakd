@@ -1,9 +1,9 @@
 ### <h1 align="center">Hi there, I'm Yohannes Assefa! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yohannesakd&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesakd" /> </p>
-
-
+<p> 
+  I am a Frontend Developer currently in my Junior year at Addis Ababa Science and Technology University
+</p>
 
 - 🔭 I’m currently working on [Win 11 in Vue](https://github.com/yohannesakd/win11-vue) and [Aimlab Stats Tracker](https://github.com/yohannesakd/aimlab-tracker)
 
@@ -42,6 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesakd&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesakd" /> </p>
 
 <div>
   <h3 align="left">Connect with me:</h3>
@@ -58,16 +59,5 @@
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannesakd&show_icons=true&theme=radical&locale=en&layout=compact" alt="yohannesakd" /></div>
 <div>&nbsp;<img width=450px src="https://github-readme-stats.vercel.app/api?username=yohannesakd&show_icons=true&theme=radical&locale=en" alt="yohannesakd" /></div>
 
-<br><br>
-<br><br>
-
-
 ![Snake animation](https://github.com/yohannesakd/yohannesakd/blob/output/github-contribution-grid-snake.svg)
-
-<br><br>
-<br><br>
-
-
-
-
 
