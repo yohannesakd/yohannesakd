@@ -42,7 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesakd&label=Profile%20views&color=0e75b6&style=flat" alt="yohannesakd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannesakd&label=Profile%20views&color=0e75b6&style=flat" alt="yohannes" /> </p>
 
 <div>
   <h3 align="left">Connect with me:</h3>
